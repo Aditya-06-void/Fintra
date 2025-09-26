@@ -16,7 +16,7 @@ app.use((req, res, next) => {
 });
 
 // API Key (you can make this environment variable later)
-const API_KEY = '9T4H9IRQMY5CDN0V';
+const API_KEY = '4ZTJSVUIKGOSWTZY';
 const BASE_URL = 'https://www.alphavantage.co/query';
 
 // Route 1: Get company quote data (requires symbol parameter)
